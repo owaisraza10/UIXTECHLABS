@@ -120,7 +120,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" onClick={handleScrollToTop} className="flex items-center space-x-2">
             <img src={logo} alt="BOB Logo" className="w-8 h-8 object-contain" />
-            <span className="text-lg font-bold tracking-wide">BOB</span>
+            <span className="text-lg font-bold tracking-wide">UIX TECH LABS</span>
           </Link>
 
           {/* Mobile Search */}
@@ -162,7 +162,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center px-4 py-3 border-b border-white/10">
           <div className="flex items-center space-x-2">
             <img src={logo} alt="BOB Logo" className="w-8 h-8 object-contain" />
-            <span className="text-xl font-bold">BOB</span>
+            <span className="text-xl font-bold">UIX TECH LABS</span>
           </div>
           <button
             onClick={() => setIsSidebarOpen(false)}

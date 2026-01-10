@@ -38,6 +38,22 @@ With a commitment to quality, transparency, and user-centric innovation, we turn
               </a>
             </div>
           </div>
+
+          {/* Column 3: Kontakt */}
+          <div>
+            <h3 className="text-lg font-semibold text-white mb-4">Address</h3>
+            <div className="text-sm space-y-3">
+             
+              <div className="flex items-start gap-3">
+              
+              </div>
+          
+                <span>House No. 12,
+Portion Back Floor, 3rd DR Lohia Road, Adrash Nagar, North
+West Delhi, Delhi, Delhi, India, 110033</span>
+              
+            </div>
+          </div>
           
           
         </div>
